@@ -1,0 +1,21 @@
+[
+    {
+        "title": "Free Storage",
+        "image" : "assets/images/featured-01.png"
+    },
+
+    {
+        "title": "User More",
+        "image" : "assets/images/featured-02.png"
+    },
+
+    {
+        "title": "Reply",
+        "image" : "assets/images/featured-03.png"
+    },
+
+    {
+        "title": "Easy Layout",
+        "image" : "assets/images/featured-04.png"
+    }
+]

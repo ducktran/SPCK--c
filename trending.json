@@ -1,0 +1,26 @@
+[
+    {
+        "image": "assets/images/trending-01.jpg",
+        "price": "$20",
+        "category": "Action",
+        "title": "Warframe"
+    },
+    {
+        "image": "assets/images/trending-02.jpg",
+        "price": "$44",
+        "category": "Adventure",
+        "title": "Tower of fantasy"
+    },
+    {
+        "image": "assets/images/trending-03.jpg",
+        "price": "<em>$64</em>$44",
+        "category": "Action",
+        "title": "Super People"
+    },
+    {
+        "image": "assets/images/trending-04.jpg",
+        "price": "$32",
+        "category": "Strategy",
+        "title": "Yu-gi-oh"
+    }
+]

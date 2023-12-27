@@ -1,0 +1,32 @@
+[
+    {
+        "image": "assets/images/top-game-01.jpg",
+        "category": "Adventure",
+        "title": "Assasin Creed"
+    },
+    {
+        "image": "assets/images/top-game-02.jpg",
+        "category": "Adventure",
+        "title": "Battle Ground"
+    },
+    {
+        "image": "assets/images/top-game-03.jpg",
+        "category": "Adventure",
+        "title": "Apex Legends"
+    },
+    {
+        "image": "assets/images/top-game-04.jpg",
+        "category": "Adventure",
+        "title": "SimS4"
+    },
+    {
+        "image": "assets/images/top-game-05.jpg",
+        "category": "Adventure",
+        "title": "LosTark"
+    },
+    {
+        "image": "assets/images/top-game-06.jpg",
+        "category": "Adventure",
+        "title": "Destiny 2"
+    }
+]
